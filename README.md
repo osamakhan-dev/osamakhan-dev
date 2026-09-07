@@ -4,7 +4,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Education:** Intermediate in Computer Science (ICS) | School Topper
 - 🏫 **Experience:** Teacher at Iqra Public School (Teaching CS, Science & English)
-- 🎯 **Current Focus:** Preparing for GKS Scholarship & Pursuing BS in Computer Science & AI in South Korea
+- 🎯 **Current Focus:** Preparing for GKS Scholarship & for Pursuing BS in Computer Science & AI in South Korea
 - 💡 **Interests:** Artificial Intelligence, Machine Learning, Web Development, and Language Learning
 
 ---
